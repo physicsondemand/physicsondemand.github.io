@@ -122,28 +122,32 @@ nav ul li a:hover{
 /* Showcase Section */
 .showcase{
     height: calc(150vh - 100px);
-    background-image: url("images/bg.jpg");
+    background: rgb(175,42,2);
+    background: linear-gradient(90deg, rgba(175,42,2,1) 0%, rgba(99,48,209,1) 53%, rgba(163,34,136,1) 100%);
     background-size: cover;
     background-repeat: no-repeat;
     border-bottom: 10px solid yellowgreen;
 }
 .showcase2{
     height: calc(150vh - 100px);
-    background-image: url("images/bg2.jpg");
+    background: rgb(255,122,82);
+    background: linear-gradient(90deg, rgba(255,122,82,1) 0%, rgba(102,255,155,1) 53%, rgba(216,68,218,1) 100%);
     background-size: cover;
     background-repeat: no-repeat;
     border-bottom: 10px solid yellowgreen;
 }
 .showcase3{
     height: calc(150vh - 100px);
-    background-image: url("images/bg3.jpg");
+    background: rgb(255,122,82);
+    background: radial-gradient(circle, rgba(255,122,82,1) 0%, rgba(158,102,255,1) 0%, rgba(68,106,218,1) 77%);
     background-size: cover;
     background-repeat: no-repeat;
     border-bottom: 10px solid yellowgreen;
 }
 .showcase4{
     height: calc(150vh - 100px);
-    background-image: url("images/bg4.jpg");
+    background: rgb(255,122,82);
+    background: linear-gradient(90deg, rgba(255,122,82,1) 0%, rgba(176,33,67,1) 0%, rgba(218,68,215,1) 77%);
     background-size: cover;
     background-repeat: no-repeat;
     border-bottom: 10px solid yellowgreen;
